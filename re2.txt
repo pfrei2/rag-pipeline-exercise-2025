@@ -1,0 +1,8 @@
+python-dotenv
+PyPDF2
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+numpy
+openai
+dotenv
